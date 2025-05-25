@@ -55,12 +55,6 @@ DOI: 10.5281/zenodo.4448894
 ▶️ How to Run
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/climagrid.git
-cd climagrid
-Install required Python packages:
 
 bash
 Copy
