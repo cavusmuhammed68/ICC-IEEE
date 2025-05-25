@@ -2,11 +2,13 @@
 Resilient Smart Grid Management through Weather-Informed and Economic Dispatch
 
 ClimaGrid: Resilient and Market-Aware Smart Grid Optimisation
+
 ClimaGrid is an adaptive energy management framework designed to coordinate distributed energy resources (DERs)—including solar, wind, battery, and hydrogen systems—under real-world conditions of weather uncertainty and electricity market volatility.
 
 This repository contains the Python scripts, figures, and simulation assets used in the associated research paper.
 
 🛠 Features
+
 Adaptive Priority-Aware Dispatch (APAD): Balances battery and fuel cell dispatch to smooth demand.
 
 Weather-Responsive Control: Simulates and responds to sudden irradiance and wind fluctuations.
