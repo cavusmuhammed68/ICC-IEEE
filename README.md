@@ -18,9 +18,13 @@ Market-Aware Optimisation: Adjusts DER usage in real-time to reduce cost during 
 Multi-layer Decision Framework: Integrates technical, environmental, and economic signals.
 
 📂 Repository Structure
+
 graphql
+
 Copy
+
 Edit
+
 📁 ICC_Conference/
 ├── data_for_energyy.csv          # Rye microgrid dataset (Trondheim, Norway)
 ├── section_5_1_apad.py           # Load optimisation via APAD
